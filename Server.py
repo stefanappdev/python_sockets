@@ -148,12 +148,3 @@ runServer()
 
 
 
-
-'''
-# Write Code that allows the Server to retrieve a random secret question.
-    """Your Code here"""
-    # Write Code that allows the Server to receive an answer from the Client.
-    """Your Code here"""
-    # Write Code that allows the Server to Send Welcome message to agent -> "Welcome Agent X" 
-    """Your Code here"""
-    '''
